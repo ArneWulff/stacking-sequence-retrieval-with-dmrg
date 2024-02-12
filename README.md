@@ -1,20 +1,24 @@
 # Research Code Accompanying the Publication: "Quantum Computing and Tensor Networks for Laminate Design: A Novel Approach to Stacking Sequence Retrieval"
 
 **Authors:** Arne Wulff¹, Boyang Chen¹, Matthew Steinberg², Yinglu Tang¹, Matthias Möller², Sebastian Feld²
+
 ¹*Faculty of Aerospace Engineering, Delft University of Technology, The Netherlands*
 ²*Faculty of Electrical Engineering, Mathematics and Computer Science, Delft University of Technology, The Netherlands*
 
-This repository contains the code to reproduce the results of our paper: URL
+This repository contains the code to reproduce the results of our paper: 
+https://arxiv.org/abs/2402.06455
 
 Please use the following citation:
 
 ```
 @article{Wulff2024,
-  title = {Quantum Computing and Tensor Networks for Laminate Design: A New Approach to Stacking Sequence Retrieval},
-  author = {Wulff, Arne and Chen, Boyang and Steinberg, Matthew and Tang,Yinglu and M{\"o}ller, Matthias and Feld, Sebastian},
-  journal = {arXiv},
-  year = {2024},
-  url = "..."
+  title={Quantum Computing and Tensor Networks for Laminate Design: A Novel Approach to Stacking Sequence Retrieval}, 
+  author={Arne Wulff and Boyang Chen and Matthew Steinberg and Yinglu Tang and Matthias M{\"o}ller and Sebastian Feld},
+  year={2024},
+  eprint={2402.06455},
+  archivePrefix={arXiv},
+  primaryClass={quant-ph},
+  url={https://arxiv.org/abs/2402.06455}
 }
 ```
 
